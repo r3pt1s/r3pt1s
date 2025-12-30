@@ -31,7 +31,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=r3pt1s&bg_color=0D1117
+          options: username=PocketCloudSystem&repo=PocketCloud&bg_color=0D1117
           path: profile/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
